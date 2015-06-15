@@ -1,4 +1,0 @@
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\bin\Debug\ServerUpdate.dll
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\bin\Debug\ServerUpdate.pdb
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.dll
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.pdb
