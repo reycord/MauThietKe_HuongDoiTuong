@@ -1,0 +1,5 @@
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerAdd\bin\Debug\ServerAdd.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerAdd\bin\Debug\ServerAdd.pdb
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerAdd\obj\Debug\ServerAdd.csprojResolveAssemblyReference.cache
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerAdd\obj\Debug\ServerAdd.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerAdd\obj\Debug\ServerAdd.pdb
