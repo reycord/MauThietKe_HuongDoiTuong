@@ -1,5 +1,0 @@
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerView\obj\Debug\ServerView.csprojResolveAssemblyReference.cache
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerView\bin\Debug\ServerView.dll
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerView\bin\Debug\ServerView.pdb
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerView\obj\Debug\ServerView.dll
-C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerView\obj\Debug\ServerView.pdb
