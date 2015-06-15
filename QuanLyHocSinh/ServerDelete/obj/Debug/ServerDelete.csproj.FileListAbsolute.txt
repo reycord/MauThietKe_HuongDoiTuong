@@ -1,0 +1,4 @@
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\bin\Debug\ServerDelete.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\bin\Debug\ServerDelete.pdb
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\obj\Debug\ServerDelete.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\obj\Debug\ServerDelete.pdb
