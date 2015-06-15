@@ -1,0 +1,4 @@
+c:\users\sangthanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.GenerateResource.Cache

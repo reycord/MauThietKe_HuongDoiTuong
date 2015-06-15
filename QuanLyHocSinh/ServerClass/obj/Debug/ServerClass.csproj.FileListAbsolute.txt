@@ -1,0 +1,7 @@
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\obj\Debug\ServerClass.csprojResolveAssemblyReference.cache
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\bin\Debug\ServerClass.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\bin\Debug\ServerClass.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\bin\Debug\ServerView.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\bin\Debug\ServerView.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\obj\Debug\ServerClass.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\QuanLyHocSinh\ServerClass\obj\Debug\ServerClass.pdb
